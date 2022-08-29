@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained in 2nd commit")
 
-        today is a good day
+
+        ggfjifffdfod
     }
 }
