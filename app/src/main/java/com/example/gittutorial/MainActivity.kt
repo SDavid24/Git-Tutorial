@@ -10,7 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained in 2nd commit")
 
-        ggfjifffdfod
 
         println("CHANGE 2")
 
