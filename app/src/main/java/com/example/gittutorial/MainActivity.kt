@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         println("CHANGE 2")
 
         println("THIS LINE WILL BE MERGED")
+        println("THIS LINE WILL ALSO BE MERGED LAST")
     }
 }
