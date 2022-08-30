@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
 
         ggfjifffdfod
 
-        println("CHANGE 1")
+        println("CHANGE 2")
     }
 }
