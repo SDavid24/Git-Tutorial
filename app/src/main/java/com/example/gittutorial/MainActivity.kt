@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
 
         println("THIS LINE WILL BE MERGED")
         println("3. THIS LINE WILL BE IS FOR FINAL MERGING TEST 3")
+
+        println("Hello from the other side. Your friend says Hi")
     }
 }
